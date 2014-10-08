@@ -84,16 +84,6 @@
 # # inside function()
 # # inside decorator.__call__() end
 
-# d={}
-# d[1,2]='hello'
-# d[2,4]='world'
-# print d
-# print d[1,2]
-
-# lt =set([4,2,3])
-# for u in lt:
-#     print(u)
-
 import numpy as np
 max_speeds = np.load('intro/summary-exercises/examples/max-speeds.npy')
 years_nb = max_speeds.shape[0]

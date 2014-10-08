@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcodeoj.iml" filepath="$PROJECT_DIR$/.idea/leetcodeoj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../百度云同步盘/EducationProject/why-education_new/.idea/why-education_new.iml" filepath="$PROJECT_DIR$/../../百度云同步盘/EducationProject/why-education_new/.idea/why-education_new.iml" />
     </modules>
   </component>
 </project>
