@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="104be9b4-3b45-4242-b915-24dd4cad481c" name="Default" comment="" />
+    <ignored path="leetcodeoj.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="leetcodeoj" />
+    <favorites_list name="django">
+      <favorite_root url="file://$PROJECT_DIR$" module="leetcodeoj" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/.idea" module="leetcodeoj" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/.idea/.name" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/scopes" module="leetcodeoj" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/.idea/scopes/scope_settings.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/.idea/vcs.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/modules.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/dictionaries" module="leetcodeoj" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/.idea/dictionaries/hujiawei.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/.idea/encodings.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/leetcodeoj.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/LRUCache.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/SortList.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/exportToHTML" module="leetcodeoj" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/exportToHTML/index.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/exportToHTML/LRUCache.py.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/exportToHTML/SortList.py.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/exportToHTML/ImageList.py.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/exportToHTML/APythonTest.py.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/exportToHTML/ReorderList.py.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/exportToHTML/MaxPointonaLine.py.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/exportToHTML/InsertionSortList.py.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/exportToHTML/PythonDataStructures.py.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/exportToHTML/ReverseWordsinaString.py.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/exportToHTML/BinaryTreePreorderTraversal.py.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/exportToHTML/BinaryTreePostorderTraversal.py.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/ImageList.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/APythonTest.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/ReorderList.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/MaxPointonaLine.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/InsertionSortList.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/PythonDataStructures.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/ReverseWordsinaString.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/BinaryTreePreorderTraversal.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/BinaryTreePostorderTraversal.py" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/PythonDataStructures.py" />
+        <option value="$PROJECT_DIR$/APythonTestA.py" />
+        <option value="$PROJECT_DIR$/APythonTestB.py" />
+        <option value="$PROJECT_DIR$/APythonTest2.py" />
+        <option value="$PROJECT_DIR$/../HujiaweiGists/hadoop-installation.sh" />
+        <option value="$PROJECT_DIR$/../BigdataWorks/work2part1/pagerank_test1.py" />
+        <option value="$PROJECT_DIR$/../BigdataWorks/work2part1/pagerank_test2.py" />
+        <option value="$PROJECT_DIR$/../BigdataWorks/work2part1/pagerank_robin.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/pyalgos_dp/fib.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/pyalgos_dp/dag_sp.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/pyalgos_dp/matrixchain.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/pyalgos_dp/dp.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/pyalgos_dp/lcs.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/graph/Floyd-Warshall.py" />
+        <option value="$PROJECT_DIR$/ImageList.py" />
+        <option value="$PROJECT_DIR$/../BigdataWorks/work2part1/test.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/pyalgos_dp/pascal.py" />
+        <option value="$PROJECT_DIR$/../MLinAction/Ch05/EXTRAS/plot2D.py" />
+        <option value="$PROJECT_DIR$/../MLinAction/Ch05/sigmoidPlot.py" />
+        <option value="$PROJECT_DIR$/../MLinAction/Ch05/logRegres.py" />
+        <option value="$PROJECT_DIR$/../MLinAction/Ch05/plot2D.py" />
+        <option value="$PROJECT_DIR$/../MLinAction/Ch05/hjwtest.py" />
+        <option value="$PROJECT_DIR$/../MLinAction/Ch05/plotSDerror.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/datastructures/dictionaryperformance.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/sourcecodes/ch_02.py" />
+        <option value="$USER_HOME$/Library/Caches/PyCharm30/python_stubs/-1199944087/__builtin__.py" />
+        <option value="/usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/sourcecodes/ch_04.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/basics/pabasics.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/study/ch_01.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/study/ch_02.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/study/ch_04.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/study/c04.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/study/ch_05.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/study/c05.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/study/c06.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/study/ch_07.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/study/c07.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/study/c08.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/study/ch_09.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/study/ch_08.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/study/c09.py" />
+        <option value="$PROJECT_DIR$/SortList.py" />
+        <option value="$PROJECT_DIR$/InsertionSortList.py" />
+        <option value="$PROJECT_DIR$/LRUCache2.py" />
+        <option value="$PROJECT_DIR$/BinaryTreePostorderTraversal.py" />
+        <option value="$PROJECT_DIR$/BinaryTreePreorderTraversal.py" />
+        <option value="$PROJECT_DIR$/LRUCache.py" />
+        <option value="$PROJECT_DIR$/ReorderList.py" />
+        <option value="$PROJECT_DIR$/APythonTest.py" />
+        <option value="$PROJECT_DIR$/../pyalgos/sort/insertsort.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="712" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="pythonalgos">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="$PROJECT_DIR$/../pythonalgos">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT=".idea">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcodeoj" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPython" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pythonalgos" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="leetcodeoj" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="leetcodeoj" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../pyalgos/study" />
+      <recent name="$PROJECT_DIR$/../pyalgos/sourcecodes" />
+      <recent name="$PROJECT_DIR$/../MLinAction/Ch05" />
+      <recent name="$PROJECT_DIR$/../MLinAction" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="false" name="APythonTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcodeoj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/APythonTest.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="LRUCache2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcodeoj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LRUCache2.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BinaryTreePostorderTraversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcodeoj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryTreePostorderTraversal.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ReorderList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcodeoj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReorderList.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcodeoj" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcodeoj" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcodeoj" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcodeoj" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcodeoj" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcodeoj" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Python.APythonTest" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LRUCache2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.BinaryTreePostorderTraversal" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ReorderList" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.APythonTest" />
+        <item index="1" class="java.lang.String" itemvalue="Python.ReorderList" />
+        <item index="2" class="java.lang.String" itemvalue="Python.BinaryTreePostorderTraversal" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LRUCache2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="104be9b4-3b45-4242-b915-24dd4cad481c" name="Default" comment="" />
+      <created>1399387491611</created>
+      <updated>1399387491611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="712" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2363344" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19539317" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42926046" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970452" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23472668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="272" width="1280" height="212" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="40" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../pyalgos/sort/insertsort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="12" selection-start="771" selection-end="771" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="585" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/pyalgos_dp/lcs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="25" selection-start="2352" selection-end="2352" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1455" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImageList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="461" selection-end="461" vertical-scroll-proportion="0.5059022" vertical-offset="0" max-vertical-offset="593" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/graph/Floyd-Warshall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="21" selection-start="702" selection-end="702" vertical-scroll-proportion="0.78246206" vertical-offset="31" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../BigdataWorks/work2part1/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="17" selection-start="782" selection-end="782" vertical-scroll-proportion="0.2782462" vertical-offset="450" max-vertical-offset="1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLinAction/Ch02/EXTRAS/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="514" selection-end="514" vertical-scroll-proportion="0.20304568" vertical-offset="0" max-vertical-offset="591" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/pyalgos_dp/pascal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="12" selection-start="268" selection-end="268" vertical-scroll-proportion="0.30287647" vertical-offset="61" max-vertical-offset="675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/pyalgos_dp/dp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="261" selection-end="261" vertical-scroll-proportion="0.38071066" vertical-offset="0" max-vertical-offset="591" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLinAction/Ch05/EXTRAS/plot2D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="16" selection-start="174" selection-end="174" vertical-scroll-proportion="0.2284264" vertical-offset="0" max-vertical-offset="735" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLinAction/Ch05/EXTRAS/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="16" selection-start="513" selection-end="513" vertical-scroll-proportion="0.17766498" vertical-offset="0" max-vertical-offset="591" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLinAction/Ch05/horseColicTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLinAction/Ch05/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.9324324" vertical-offset="345" max-vertical-offset="1590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLinAction/Ch05/sigmoidPlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="24" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLinAction/Ch05/figlegend_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="44" selection-start="268" selection-end="268" vertical-scroll-proportion="0.3515625" vertical-offset="0" max-vertical-offset="384" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLinAction/Ch05/hjwtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="31" selection-start="270" selection-end="281" vertical-scroll-proportion="0.35532996" vertical-offset="0" max-vertical-offset="591" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLinAction/Ch05/plotSDerror.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="24" selection-start="2300" selection-end="2300" vertical-scroll-proportion="0.3282572" vertical-offset="736" max-vertical-offset="1350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLinAction/Ch05/plot2D.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="60" selection-start="524" selection-end="524" vertical-scroll-proportion="0.2893401" vertical-offset="174" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLinAction/Ch05/plotGD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="46" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MLinAction/Ch05/logRegres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="26" selection-start="2875" selection-end="2875" vertical-scroll-proportion="0.2741117" vertical-offset="1083" max-vertical-offset="1980" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/datastructures/dictionaryperformance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="29" selection-start="417" selection-end="417" vertical-scroll-proportion="0.4767726" vertical-offset="0" max-vertical-offset="1005" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/sourcecodes/ch_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="409" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/sourcecodes/ch_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="42" selection-start="863" selection-end="893" vertical-scroll-proportion="0.0" vertical-offset="398" max-vertical-offset="6600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/sourcecodes/ch_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="20" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5310" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/basics/pabasics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="0" selection-start="1983" selection-end="2009" vertical-scroll-proportion="0.610951" vertical-offset="1183" max-vertical-offset="1530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/ch_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="326" column="28" selection-start="7019" selection-end="7019" vertical-scroll-proportion="0.32715008" vertical-offset="4696" max-vertical-offset="5310" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/ch_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="31" selection-start="900" selection-end="921" vertical-scroll-proportion="0.79763913" vertical-offset="262" max-vertical-offset="855" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/ch_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="31" selection-start="373" selection-end="373" vertical-scroll-proportion="-1.8583474" vertical-offset="1282" max-vertical-offset="2145" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/2.7.6/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="887" column="0" selection-start="31625" selection-end="31625" vertical-scroll-proportion="0.0" vertical-offset="13098" max-vertical-offset="13560" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/c04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="148" column="0" selection-start="4512" selection-end="4512" vertical-scroll-proportion="5.0454545" vertical-offset="0" max-vertical-offset="2655" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/ch_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="447" column="0" selection-start="11575" selection-end="12158" vertical-scroll-proportion="0.75" vertical-offset="6375" max-vertical-offset="7080" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/c05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="216" column="27" selection-start="7550" selection-end="7550" vertical-scroll-proportion="0.6474359" vertical-offset="2937" max-vertical-offset="3435" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/c06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="0" selection-start="1954" selection-end="1954" vertical-scroll-proportion="0.78246206" vertical-offset="376" max-vertical-offset="990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/ch_06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="281" column="12" selection-start="9252" selection-end="9640" vertical-scroll-proportion="0.2158516" vertical-offset="4087" max-vertical-offset="4680" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/ch_05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="264" column="34" selection-start="8975" selection-end="8975" vertical-scroll-proportion="0.20404722" vertical-offset="3839" max-vertical-offset="4515" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/ch_07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="12" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="2310" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/c07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="46" selection-start="3332" selection-end="3332" vertical-scroll-proportion="0.6964587" vertical-offset="1327" max-vertical-offset="1920" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/c08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/c09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="194" column="40" selection-start="7479" selection-end="7479" vertical-scroll-proportion="0.32715008" vertical-offset="2716" max-vertical-offset="3600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/ch_09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="212" column="7" selection-start="7171" selection-end="7171" vertical-scroll-proportion="0.10118044" vertical-offset="3120" max-vertical-offset="6735" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/study/ch_08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="22" selection-start="39" selection-end="39" vertical-scroll-proportion="-0.3035413" vertical-offset="210" max-vertical-offset="6180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MaxPointonaLine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SortList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="0" selection-start="1782" selection-end="1782" vertical-scroll-proportion="0.0" vertical-offset="872" max-vertical-offset="1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InsertionSortList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTreePostorderTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="624" selection-end="898" vertical-scroll-proportion="0.9255319" vertical-offset="90" max-vertical-offset="645" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BinaryTreePreorderTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="38" selection-start="419" selection-end="419" vertical-scroll-proportion="0.5106383" vertical-offset="0" max-vertical-offset="615" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1538" column="0" selection-start="60694" selection-end="60694" vertical-scroll-proportion="0.74759614" vertical-offset="21784" max-vertical-offset="22200" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../pyalgos/sort/insertsort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="329" selection-end="329" vertical-scroll-proportion="0.20236088" vertical-offset="0" max-vertical-offset="593" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APythonTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="30" selection-start="2202" selection-end="2202" vertical-scroll-proportion="0.7571669" vertical-offset="1021" max-vertical-offset="1635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReorderList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReverseWordsinaString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="325" selection-end="325" vertical-scroll-proportion="0.35413152" vertical-offset="0" max-vertical-offset="593">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LRUCache.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="33" selection-start="1046" selection-end="1046" vertical-scroll-proportion="0.35344827" vertical-offset="215" max-vertical-offset="795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
