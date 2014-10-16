@@ -84,10 +84,6 @@
 # # inside function()
 # # inside decorator.__call__() end
 
-import numpy as np
-max_speeds = np.load('intro/summary-exercises/examples/max-speeds.npy')
-years_nb = max_speeds.shape[0]
-
 import os
 def tree(top):
     #path,folder list,file list

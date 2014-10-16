@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/MLinAction/.idea/MLinAction.iml" filepath="$USER_HOME$/PycharmProjects/MLinAction/.idea/MLinAction.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcodeoj.iml" filepath="$PROJECT_DIR$/.idea/leetcodeoj.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../百度云同步盘/EducationProject/why-education_new/.idea/why-education_new.iml" filepath="$PROJECT_DIR$/../../百度云同步盘/EducationProject/why-education_new/.idea/why-education_new.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pyalgos/.idea/pyalgos.iml" filepath="$USER_HOME$/PycharmProjects/pyalgos/.idea/pyalgos.iml" />
     </modules>
   </component>
 </project>

@@ -5,6 +5,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="why-education_new" />
+    <orderEntry type="module" module-name="pyalgos" />
+    <orderEntry type="module" module-name="MLinAction" />
   </component>
 </module>
 
