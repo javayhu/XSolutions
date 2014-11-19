@@ -75,20 +75,22 @@ public class Towers274B {
         return maxMin;
     }
 
-}
+    static class MaxMin {
+        int maxmin;
+        int index = 0;
+    }
 
-class MaxMin {
-    int maxmin;
-    int index = 0;
-}
+    static class Move {
+        int from;
+        int to;
 
-class Move {
-    int from;
-    int to;
+        Move(int from, int to) {
+            this.from = from;
+            this.to = to;
+        }
 
-    Move(int from, int to) {
-        this.from = from;
-        this.to = to;
     }
 
 }
+
+

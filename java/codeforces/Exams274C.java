@@ -32,37 +32,40 @@ public class Exams274C {
         }
         System.out.println(currentTime);
     }
-}
 
-class ExamDate implements Comparable {
+    static class ExamDate implements Comparable {
 
-    int a;
-    int b;
+        int a;
+        int b;
 
-    ExamDate(int a, int b) {
-        this.a = a;
-        this.b = b;
-    }
+        ExamDate(int a, int b) {
+            this.a = a;
+            this.b = b;
+        }
 
-    @Override
-    public int compareTo(Object o) {//注意这里的写法
-        if (o instanceof ExamDate) {
-            ExamDate date = (ExamDate) o;
-            if (this.a < date.a) {
-                return -1;
-            } else if (this.a > date.a) {
-                return 1;
-            } else {//when a is same, compare their b, put smaller one first
-                if (this.b < date.b) {
+        @Override
+        public int compareTo(Object o) {//注意这里的写法
+            if (o instanceof ExamDate) {
+                ExamDate date = (ExamDate) o;
+                if (this.a < date.a) {
                     return -1;
-                } else if (this.b > date.b) {
+                } else if (this.a > date.a) {
                     return 1;
-                } else {
-                    return 0;
+                } else {//when a is same, compare their b, put smaller one first
+                    if (this.b < date.b) {
+                        return -1;
+                    } else if (this.b > date.b) {
+                        return 1;
+                    } else {
+                        return 0;
+                    }
                 }
             }
+            return 0;
         }
-        return 0;
     }
+
 }
+
+
 

@@ -20,7 +20,7 @@ public class Test1670 {
             //    if (i % p[j] == 0)
             //        break;
             //}
-            for (int j = 0; i * j <= 10000; ++j) {
+            for (int j = 0; i * j <= 10000; ++j) {//TODO!!!这里是错误的！
                 isnp[i * j] = true;//给定范围的数字中素数的整数倍一定不是素数
             }
         }

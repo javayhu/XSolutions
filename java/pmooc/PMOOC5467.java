@@ -89,31 +89,33 @@ public class PMOOC5467 {
         }
     }
 
-}
+    static class Item implements Comparable {
 
+        int a;
+        int b;
 
-class Item implements Comparable {
+        public Item(int ia, int ib) {
+            this.a = ia;
+            this.b = ib;
+        }
 
-    int a;
-    int b;
+        @Override
+        public int compareTo(Object o) {
+            if (this.b < ((Item) o).b) {
+                return 1;
+            } else {
+                return -1;
+            }
+        }
 
-    public Item(int ia, int ib) {
-        this.a = ia;
-        this.b = ib;
-    }
-
-    @Override
-    public int compareTo(Object o) {
-        if (this.b < ((Item) o).b) {
-            return 1;
-        } else {
-            return -1;
+        @Override
+        public boolean equals(Object obj) {
+            return this.b == ((Item) obj).b;
         }
     }
 
-    @Override
-    public boolean equals(Object obj) {
-        return this.b == ((Item) obj).b;
-    }
 }
+
+
+
 

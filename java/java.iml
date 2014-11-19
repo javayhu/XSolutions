@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/bestcoder" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/codejam" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/acdream" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FOJ" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
