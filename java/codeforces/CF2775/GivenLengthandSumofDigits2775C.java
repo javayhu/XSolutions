@@ -1,3 +1,5 @@
+package CF2775;
+
 import java.util.Scanner;
 
 /**

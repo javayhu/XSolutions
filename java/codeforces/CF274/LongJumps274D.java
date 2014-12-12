@@ -1,3 +1,5 @@
+package CF274;
+
 import java.util.Collections;
 import java.util.HashSet;
 import java.util.Scanner;
