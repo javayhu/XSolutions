@@ -55,3 +55,6 @@ target/
 
 # pycharm
 .idea
+
+#java
+*.class
