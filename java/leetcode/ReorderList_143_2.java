@@ -6,7 +6,7 @@
 
 //改进原来的版本，首先使用快慢指针得到列表的后半部分然后反转过来，接着和前半部分进行合并得到新列表
 
-public class ReorderList2 {
+public class ReorderList_143_2 {
 
     public static void main(String[] args) {
 
@@ -15,7 +15,7 @@ public class ReorderList2 {
         head.next.next = new ListNode(3);
         head.next.next.next = new ListNode(4);
         //head.next.next.next.next = new ListNode(5);
-        new ReorderList2().reorderList(head);
+        new ReorderList_143_2().reorderList(head);
     }
 
     public void reorderList(ListNode head) {
@@ -43,7 +43,7 @@ public class ReorderList2 {
             t2 = q.next;
             p.next = q;
             p = t1;
-            if (t1!=null){//if t1 is null, do not do this!
+            if (t1 != null) {//if t1 is null, do not do this!
                 q.next = t1;
                 q = t2;
             }
@@ -67,6 +67,16 @@ public class ReorderList2 {
         }
         head.next = null;//make the first to be the last
         return p;
+    }
+
+    static class ListNode {
+        int val;
+        ListNode next;
+
+        ListNode(int x) {
+            val = x;
+            next = null;
+        }
     }
 
 }

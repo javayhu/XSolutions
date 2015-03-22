@@ -10,10 +10,10 @@
  * 直接遍历一遍数组即可
  */
 
-public class MaximumProductSubarray {
+public class MaximumProductSubarray_152 {
 
     public static void main(String[] args) {
-        System.out.println(new MaximumProductSubarray().maxProduct(new int[]{-5, 2, 4, 1, -2, 2, -6, 3, -1, -1, -1, -2, -3, 5, 1, -3, -4, 2, -4, 6, -1, 5}));
+        System.out.println(new MaximumProductSubarray_152().maxProduct(new int[]{-5, 2, 4, 1, -2, 2, -6, 3, -1, -1, -1, -2, -3, 5, 1, -3, -4, 2, -4, 6, -1, 5}));
     }
 
     public int maxProduct(int[] A) {

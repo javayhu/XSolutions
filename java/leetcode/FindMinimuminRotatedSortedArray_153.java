@@ -1,8 +1,10 @@
 /**
  * Created by hujiawei on 10/17/14.
+ *
+ *
+ *
+ * https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/
  */
-
-//https://oj.leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 
 /**
  * 1.去掉首项和末项，中间部分使用二分查找，如果没有找到的话是加入首项和末项进行比较，谁最小就是最小项
@@ -13,10 +15,10 @@
  * 因为原有数组是进行了rotate操作的
  */
 
-public class FindMinimuminRotatedSortedArray {
+public class FindMinimuminRotatedSortedArray_153 {
 
     public static void main(String[] args) {
-        System.out.println(new FindMinimuminRotatedSortedArray().findMin(new int[]{4, 5, 6, 7, 0, 1, 2}));
+        System.out.println(new FindMinimuminRotatedSortedArray_153().findMin(new int[]{4, 5, 6, 7, 0, 1, 2}));
     }
 
     public int findMin(int[] num) {

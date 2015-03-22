@@ -9,17 +9,17 @@ import java.util.Arrays;
  * <p/>
  * AC
  */
-public class NextPermutation_31_ac {
+public class NextPermutation_31 {
 
     public static void main(String[] args) {
         int[] num = new int[]{1, 2, 3};
-        new NextPermutation_31_ac().nextPermutation(num);
+        new NextPermutation_31().nextPermutation(num);
         System.out.print(Arrays.toString(num));
         num = new int[]{3, 2, 1};
-        new NextPermutation_31_ac().nextPermutation(num);
+        new NextPermutation_31().nextPermutation(num);
         System.out.print(Arrays.toString(num));
         num = new int[]{1, 3, 2};
-        new NextPermutation_31_ac().nextPermutation(num);
+        new NextPermutation_31().nextPermutation(num);
         System.out.print(Arrays.toString(num));
     }
 

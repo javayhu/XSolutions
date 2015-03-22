@@ -3,7 +3,7 @@
 
 //就地对列表进行重新排列，首先反转列表得到一个新列表，然后结合两个列表就行了
 
-public class ReorderList {
+public class ReorderList_143 {
 
     public static void main(String[] args) {
 
@@ -12,7 +12,7 @@ public class ReorderList {
         head.next.next = new ListNode(3);
         head.next.next.next = new ListNode(4);
         //head.next.next.next.next = new ListNode(5);
-        new ReorderList().reorderList(head);
+        new ReorderList_143().reorderList(head);
     }
 
     public void reorderList(ListNode head) {
@@ -56,14 +56,15 @@ public class ReorderList {
         }
         return r;
     }
-}
 
-class ListNode {
-    int val;
-    ListNode next;
+    static class ListNode {
+        int val;
+        ListNode next;
 
-    ListNode(int x) {
-        val = x;
-        next = null;
+        ListNode(int x) {
+            val = x;
+            next = null;
+        }
     }
 }
+

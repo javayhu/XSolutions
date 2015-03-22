@@ -6,10 +6,10 @@
 
 //最大子数组之和
 
-public class MaximumSubarray {
+public class MaximumSubarray_53 {
 
     public static void main(String[] args) {
-        System.out.print(new MaximumSubarray().maxSubArray(new int[]{1,2}));
+        System.out.print(new MaximumSubarray_53().maxSubArray(new int[]{1,2}));
     }
 
     public int maxSubArray(int[] A) {

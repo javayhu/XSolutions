@@ -7,16 +7,17 @@ import java.util.Set;
 
 //https://oj.leetcode.com/problems/word-break-ii/
 
-public class WorkBreak2 {
+public class WorkBreak2_140_no {
 
     public static void main(String[] args) {
         String s = "leetcode";
         Set<String> dict = new HashSet<String>();
         dict.add("leet");
         dict.add("cde");
-        System.out.println(new WorkBreak2().wordBreak(s, dict));
+        System.out.println(new WorkBreak2_140_no().wordBreak(s, dict));
     }
 
+    // 参考网址 http://www.acmerblog.com/leetcode-solution-word-break-ii-6327.html
     public boolean wordBreak(String s, Set<String> dict) {
         int l = s.length();
         boolean[] f = new boolean[l + 1];
