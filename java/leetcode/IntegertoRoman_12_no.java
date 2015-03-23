@@ -5,10 +5,10 @@
  * <p/>
  * https://leetcode.com/problems/integer-to-roman/
  */
-public class IntegertoRoman_12 {
+public class IntegertoRoman_12_no {
 
     public static void main(String[] args) {
-        System.out.println(new IntegertoRoman_12().intToRoman(2999));
+        System.out.println(new IntegertoRoman_12_no().intToRoman(2999));
     }
 
     // 参考解法
