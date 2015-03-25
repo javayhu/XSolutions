@@ -8,7 +8,7 @@ LeetCode OJ [https://leetcode.com/](https://leetcode.com/)
 
 #####2. xxx_yyy_2  该题目的第二种解法
 
-#####3. xxx_yyy2   编号为II (2)的变种题目
+#####3. xxx_yyy2   编号为II (2)的变种题目，但是某些例外，例如Sum3，实际是3Sum这题
 
 #####4. xxx_no     未解决或者未理解的题目
 
