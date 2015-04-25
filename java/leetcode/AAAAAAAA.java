@@ -8,6 +8,17 @@ import java.util.List;
 public class AAAAAAAA {
 
     public static void main(String[] args) {
+
+        System.out.println(new String("2b37ddb1972061b91f24f3e1b9d84c66ad00dd14").length());
+
+        //System.out.println(2%6);//2
+        //String str = "01234567890";
+        //int start = 0;
+        //String tag = str.substring(start, start + 8);
+        //System.out.println(tag);
+    }
+
+    private static void test3() {
         int n = 2147395599;
         int m = n / 2;
         int m2 = m * m;
