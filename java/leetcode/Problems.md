@@ -1,5 +1,11 @@
 没有完成或者暂时没空做的题目列表
 
+二叉树
+
+Recover Binary Search Tree
+
+其他
+
 130.Surrounded Regions
 
 8.String to Integer
@@ -13,10 +19,14 @@
 
 29.Divide Two Integers
 
-54.Spiral Matrix 
-59.Spiral Matrix II
-
 42.Trapping Rain Water 
 
+链表
+
 138.Copy List with Random Pointer
+
+
+数组
+
+89.Gray Code
 
