@@ -1,5 +1,3 @@
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -9,8 +7,9 @@ import java.util.Scanner;
  * hujiawei 15/4/25
  * <p/>
  * 编程之美初赛第一场 第一题 彩色的树
+ * http://hihocoder.com/problemset/problem/1156
  */
-public class Main1 {
+public class Hiho1156 {
 
     private static int n, result;
     private static int[] colors;
@@ -18,13 +17,14 @@ public class Main1 {
     private static List<HashSet<Integer>> tree;
 
     public static void main(String[] args) {
-        //Scanner scanner = new Scanner(System.in);
-        Scanner scanner = null;
-        try {
-            scanner = new Scanner(new FileInputStream("data/in.txt"));
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        }
+        Scanner scanner = new Scanner(System.in);
+        //Scanner scanner = null;
+        //try {
+        //    scanner = new Scanner(new FileInputStream("data/in.txt"));
+        //} catch (FileNotFoundException e) {
+        //    e.printStackTrace();
+        //}
+
         int t = scanner.nextInt();
         for (int k = 1; k <= t; k++) {
             System.out.println("Case #" + k + ":");

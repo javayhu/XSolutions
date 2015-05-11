@@ -1,12 +1,13 @@
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.util.HashSet;
 import java.util.Scanner;
 
 /**
  * hujiawei 15/4/26
+ *
+ * 编程之美初赛第一场 第三题 八卦的小冰
+ * http://hihocoder.com/problemset/problem/1161
  */
-public class Main {
+public class Hiho1161 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
