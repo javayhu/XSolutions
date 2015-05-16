@@ -10,6 +10,9 @@
       <sourceFolder url="file://$MODULE_DIR$/codejam" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/pmooc" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/leetcode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/others" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hiho" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
