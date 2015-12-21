@@ -1,7 +1,7 @@
 /**
  * hujiawei 15/5/1
  * <p/>
- * 二叉树
+ * 二叉树  todo 解法有误
  * <p/>
  * https://leetcode.com/problems/symmetric-tree/
  */

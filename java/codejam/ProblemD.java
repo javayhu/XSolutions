@@ -3,7 +3,6 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
@@ -22,7 +21,7 @@ public class ProblemD {
         PrintStream out = new PrintStream(new BufferedOutputStream(new FileOutputStream("data/out.txt")));
         System.setOut(out);
         System.setErr(out);
-        Scanner scanner = new Scanner(new FileInputStream("data/D-large-practice.in.txt"));
+        Scanner scanner = new Scanner(new FileInputStream("data/D-small-practice.in.txt"));
 
         int t = scanner.nextInt();
         for (int w = 1; w <= t; w++) {

@@ -14,6 +14,7 @@ public class Sum3_15 {
         //System.out.println(new Sum3_15().threeSum(new int[]{-1, 0, 1, 2, -1, -4}));
     }
 
+    // 可以进一步优化，并不需要通过Triplet的equals来判断是否重复，而是在循环求解时跳过可能重复的地方
     public List<List<Integer>> threeSum(int[] num) {
         List<List<Integer>> result = new ArrayList<List<Integer>>();
         if (null == num || num.length < 3) return result;//[] not null

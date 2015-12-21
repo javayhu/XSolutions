@@ -11,26 +11,38 @@ public class AAAAAAAA {
 
     public static void main(String[] args) {
 
-        String a = "aaa";
-        String b = "aaa";
-        System.out.println(a == b);//true
-        System.out.println(a.hashCode() == b.hashCode());//true
-        System.out.println(a.intern() == b.intern());//true
-        System.out.println(a.equalsIgnoreCase(b));//true
+        int t = 0;
+        if ((t & 0x1) == 0) {
+            System.out.println("even");
+        } else {
+            System.out.println("odd");
+        }
 
-        String c = "bbb";
-        String d = new String("bbb");
-        System.out.println(c == d);//false
-        System.out.println(c.hashCode() == d.hashCode());//true
-        System.out.println(c.intern() == d.intern());//true
-        System.out.println(c.equalsIgnoreCase(d));//true
+        //String str = "I love  alibaba ";
+        //str = str.trim();
+        //str = str.replaceAll(" +"," ");
+        //System.out.println(str);
 
-        String e = "ccc";
-        String f = e;
-        System.out.println(e == f);//false
-        System.out.println(e.hashCode() == f.hashCode());//true
-        System.out.println(e.intern() == f.intern());//true
-        System.out.println(e.equalsIgnoreCase(f));//true
+        //String a = "aaa";
+        //String b = "aaa";
+        //System.out.println(a == b);//true
+        //System.out.println(a.hashCode() == b.hashCode());//true
+        //System.out.println(a.intern() == b.intern());//true
+        //System.out.println(a.equalsIgnoreCase(b));//true
+        //
+        //String c = "bbb";
+        //String d = new String("bbb");
+        //System.out.println(c == d);//false
+        //System.out.println(c.hashCode() == d.hashCode());//true
+        //System.out.println(c.intern() == d.intern());//true
+        //System.out.println(c.equalsIgnoreCase(d));//true
+        //
+        //String e = "ccc";
+        //String f = e;
+        //System.out.println(e == f);//false
+        //System.out.println(e.hashCode() == f.hashCode());//true
+        //System.out.println(e.intern() == f.intern());//true
+        //System.out.println(e.equalsIgnoreCase(f));//true
 
         //System.out.println(new String("2b37ddb1972061b91f24f3e1b9d84c66ad00dd14").length());
         //System.out.println(2%6);//2

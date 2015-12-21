@@ -26,7 +26,7 @@ public class SearchforaRange_34 {
     //2. 二分法的框架, 需要考虑的位置有 3 个, 在代码中我标了出来, 分别为 q1, q2, q3
     //3. q1 是取 <= 还是取 <. 我的经验是, 若是题目要求找到 target, 那么就用 <=, 否则用 <. 我记得在二分搜索题时, 都是用 < 的
     //4. q2 比较容易, 考虑当 low == high 时, 我们希望游标往哪里走
-    //5. q3, 返回 low/high. q3 的选取与 q2 有关. 还是需要考虑当 low == high 时, 游标会往哪走
+    //5. q3 返回 low/high. q3 的选取与 q2 有关. 还是需要考虑当 low == high 时, 游标会往哪走
     int lSearch(int[] A, int n, int target) {
         int low = 0, high = n - 1;
         while (low <= high) { // q1

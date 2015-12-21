@@ -8,11 +8,11 @@ import java.util.Map;
  * <p/>
  * https://leetcode.com/problems/lru-cache/
  */
-public class LRUCache extends LinkedHashMap<Integer, Integer> {
+public class LRUCache_146 extends LinkedHashMap<Integer, Integer> {
 
     int capacity;
 
-    public LRUCache(int capacity) {
+    public LRUCache_146(int capacity) {
         super(capacity, 0.75f, true);
         this.capacity = capacity;
     }

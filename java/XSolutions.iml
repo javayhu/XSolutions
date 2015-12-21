@@ -13,6 +13,8 @@
       <sourceFolder url="file://$MODULE_DIR$/leetcode" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/others" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/hiho" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/job" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dianping" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
